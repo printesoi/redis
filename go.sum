@@ -31,8 +31,6 @@ github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMo
 github.com/fsnotify/fsnotify v1.4.9 h1:hsms1Qyu0jgnwNXIxa+/V/PDsU6CfLf6CNO8H7IWoS4=
 github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4IgpuI1SZQ=
 github.com/gavv/httpexpect v2.0.0+incompatible/go.mod h1:x+9tiU1YnrOvnB725RkpoLv1M62hOWzwo5OXotisrKc=
-github.com/go-oauth2/oauth2/v4 v4.1.0 h1:u4enqg7+VRkFW2McDakRHNgArzKlP8dB5X93R1sreTg=
-github.com/go-oauth2/oauth2/v4 v4.1.0/go.mod h1:+rsyi0o/ZbSfhL/3Xr/sAtL4brS+IdGj86PHVlPjE+4=
 github.com/go-redis/redis/v8 v8.0.0-beta.5 h1:i4Rhw1v2H9HTWO05wsKdpGpFYFU9OW+foa2GuDIjbBA=
 github.com/go-redis/redis/v8 v8.0.0-beta.5/go.mod h1:Mm9EH/5UMRx680UIryN6rd5XFn/L7zORPqLV+1D5thQ=
 github.com/go-session/session v3.1.2+incompatible/go.mod h1:8B3iivBQjrz/JtC68Np2T1yBBLxTan3mn/3OM0CyRt0=
@@ -103,6 +101,8 @@ github.com/onsi/gomega v1.10.1/go.mod h1:iN09h71vgCQne3DLsj+A5owkum+a2tYe+TOCB1y
 github.com/opentracing/opentracing-go v1.1.1-0.20190913142402-a7454ce5950e/go.mod h1:UkNAQd3GIcIGf0SeVgPpRdFStlNbqXla1AfSYxPUl2o=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/printesoi/oauth2/v4 v4.1.2-4 h1:+WadvJf7+vBadCDf/hhokTTLOgzE6eaz3ajbSaxzydk=
+github.com/printesoi/oauth2/v4 v4.1.2-4/go.mod h1:PZI3jrJgCxZQv5kt9SlMzmfzmH8HqAu62BswX5FAqgI=
 github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
 github.com/sclevine/agouti v3.0.0+incompatible/go.mod h1:b4WX9W9L1sfQKXeJf1mUTLZKJ48R1S7H23Ji7oFO5Bw=
 github.com/sergi/go-diff v1.1.0/go.mod h1:STckp+ISIX8hZLjrqAeVduY0gWCT9IjLuqbuNXdaHfM=
