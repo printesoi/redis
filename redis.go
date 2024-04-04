@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/go-redis/redis/v8"
+	"github.com/redis/go-redis/v9"
 	"github.com/google/uuid"
 	jsoniter "github.com/json-iterator/go"
 	"github.com/printesoi/oauth2/v4"
